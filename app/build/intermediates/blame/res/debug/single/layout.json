@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/layout/layout_button.xml",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/layout/layout_button.xml"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/layout/amain.xml",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/layout/amain.xml"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/layout/layout_user_info.xml",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/layout/layout_user_info.xml"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/layout/loadingv.xml",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/layout/loadingv.xml"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/layout/bnewgameone.xml",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/layout/bnewgameone.xml"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/layout/cgamegy.xml",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/layout/cgamegy.xml"
+    }
+]

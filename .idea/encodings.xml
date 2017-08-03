@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/activity/GameGY.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/activity/LoadingActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/activity/LoginActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/activity/NewGame01.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/drawimgarr/DrawImageArr.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/entity/Actor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/entity/Door.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/entity/GuaiWu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/entity/Npc.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/entity/WuPin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/manager/GuaiWuManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/manager/ImgArrManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/manager/MyBitMapManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/manager/RenWuManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/manager/ShopManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/manager/SoundManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/manager/WuPinManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/view/DMessageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/view/DrawDoorImage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/view/DrawGuaiWuImage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/view/DrawableGameScreenBg.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/view/GameView001.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/view/GameViewGY.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/view/ShopAndNpcSayView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/view/TiaoCengAndGWInfoView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bdqn/hr/view/ZhanDouView.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

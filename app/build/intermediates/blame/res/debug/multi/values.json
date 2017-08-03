@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 43,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 61,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 61,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

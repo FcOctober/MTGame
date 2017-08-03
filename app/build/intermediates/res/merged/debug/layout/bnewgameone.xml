@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parentAbszdView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#000"
+    tools:context=".NewGame01">
+
+    <com.bdqn.hr.view.GameView001
+        android:id="@+id/gameview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btnlayout" />
+
+
+    <include
+        android:id="@+id/btnlayout"
+        layout="@layout/layout_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+    <include
+        layout="@layout/layout_user_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/btnlayout" />
+
+    <com.bdqn.hr.view.ZhanDouView
+        android:id="@+id/zhandouview"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_y="100dp"
+        android:visibility="invisible" />
+
+    <com.bdqn.hr.view.DMessageView
+        android:id="@+id/dmessageview"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_y="130dp"
+        android:visibility="invisible" />
+
+    <com.bdqn.hr.view.ShopAndNpcSayView
+        android:id="@+id/shopandnpc"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_y="100dp"
+        android:background="@drawable/shopimgbg"
+        android:visibility="invisible" />
+
+    <com.bdqn.hr.view.TiaoCengAndGWInfoView
+        android:id="@+id/tcandgwinfo"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:layout_y="100dp"
+        android:background="@drawable/shopimgbg"
+        android:visibility="invisible" />
+
+
+</RelativeLayout>

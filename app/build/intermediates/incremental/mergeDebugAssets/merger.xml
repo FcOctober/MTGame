@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/assets"/><source path="/Users/fuchao/ASProjects/TEST/MTGame/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/fuchao/ASProjects/TEST/MTGame/app/src/debug/assets"/></dataSet></merger>

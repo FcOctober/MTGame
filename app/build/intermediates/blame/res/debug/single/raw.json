@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/raw/backsound.mid",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/raw/backsound.mid"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/raw/hdhpwp.mp3",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/raw/hdhpwp.mp3"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/raw/sxlouti.mp3",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/raw/sxlouti.mp3"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/raw/hdwupin.mp3",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/raw/hdwupin.mp3"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/raw/actorgj.mp3",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/raw/actorgj.mp3"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/raw/guaiwugj.mp3",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/raw/guaiwugj.mp3"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/raw/kaidoor.mp3",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/raw/kaidoor.mp3"
+    },
+    {
+        "merged": "/Users/fuchao/ASProjects/TEST/MTGame/app/build/intermediates/res/merged/debug/raw/error.mp3",
+        "source": "/Users/fuchao/ASProjects/TEST/MTGame/app/src/main/res/raw/error.mp3"
+    }
+]
